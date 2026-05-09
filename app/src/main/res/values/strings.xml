@@ -1,3 +1,55 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="search_city">Search city...</string>
+    <string name="add_city">Add city</string>
+    <string name="hourly_forecast">Hourly Forecast (Next 12 hours)</string>
+    <string name="next_7_days">Next 7 Days</string>
+    <string name="today">Today</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">Network error</string>
+    <string name="city_not_found">City not found</string>
+    <string name="weather_data_error">Weather data error</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+
+    <!-- Weather Descriptions -->
+    <string name="weather_clear">Clear sky</string>
+    <string name="weather_mainly_clear">Mainly clear</string>
+    <string name="weather_fog">Fog</string>
+    <string name="weather_drizzle">Drizzle</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_snow">Snow fall</string>
+    <string name="weather_snow_grains">Snow grains</string>
+    <string name="weather_rain_showers">Rain showers</string>
+    <string name="weather_snow_showers">Snow showers</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_unknown">Unknown</string>
+
+    <string-array name="major_cities">
+        <item>London</item>
+        <item>New York</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>Madrid</item>
+        <item>Moscow</item>
+        <item>Beijing</item>
+        <item>Dubai</item>
+        <item>Istanbul</item>
+        <item>Seoul</item>
+        <item>Bangkok</item>
+        <item>Singapore</item>
+        <item>Sydney</item>
+        <item>Toronto</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Mumbai</item>
+        <item>Cairo</item>
+        <item>Rio de Janeiro</item>
+        <item>Mexico City</item>
+        <item>Delhi</item>
+        <item>Shanghai</item>
+        <item>Sao Paulo</item>
+    </string-array>
 </resources>
